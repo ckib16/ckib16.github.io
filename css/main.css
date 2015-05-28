@@ -2,7 +2,7 @@
 /* CSS Document for FLEXI landing page - Copyright 2014 Jonathan Atkinson http://cr3ativ.com */
 body, html {
 	background-color: rgba(255, 255, 255, 1);
-	/*background: url("../img/background14.jpg") no-repeat scroll 0 0 / cover transparent;*/
+	background: url("../img/Jet Trails.jpg") no-repeat scroll 0 0 / cover transparent;
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment:fixed;
@@ -23,7 +23,7 @@ a img, a, img { border: none; outline: none; text-decoration: none;}
     right: 1%;
     width: 64px;
     height: 64px;
-    background-image: url('../img/up.png');
+    background-image: url('../img/Jet Trails.jpg');
     background-repeat: no-repeat;
     background-size: 64px 64px;
     opacity: 0.4;
@@ -173,9 +173,9 @@ blockquote p {
     background-position: center center;
 }
 .bottom-logo {
-	width: 300px; 
-	margin: 0 auto; 
-	text-align: center; 
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
 	padding: 50px 0px 30px 0px;
 	clear: both;
 	}
@@ -349,7 +349,7 @@ h5 {
 	margin-top: 5px;
 }
 .menu ul { margin: 0; padding: 0; }
-.menu ul li { 
+.menu ul li {
 	display: inline;
 	margin: 0;
 	padding: 0;
@@ -364,8 +364,8 @@ h5 {
 .menu ul li a.cta { color: #ffffff; text-decoration: none; padding: 10px 20px; font-weight: 600; background-color: #FF6D6D ; transition: all 0.2s ease-in-out; border-bottom: 0px solid transparent;}
 .menu ul li a:hover.cta { color: #ffffff; padding: 10px 20px; background-color: rgba(48, 66, 82, 1); text-decoration: none; border-top: 0px solid #fbfbfb; border-bottom: 0px solid transparent;}
 .button-box {
-	margin: 0 auto; 
-	display: block; 
+	margin: 0 auto;
+	display: block;
 }
 .button-white {
    border: 2px solid rgba(255,255,255,1);
@@ -384,10 +384,10 @@ h5 {
    letter-spacing: 2px;
     line-height: 0em;
 }
-.button-white:hover { 
-	background-color: rgba(255, 255, 255, 1); 
-	color: rgba(48, 66, 82, 1); 
-	text-decoration: none; 
+.button-white:hover {
+	background-color: rgba(255, 255, 255, 1);
+	color: rgba(48, 66, 82, 1);
+	text-decoration: none;
 	border: 2px solid transparent;
 	padding: 15px 40px 18px 40px;
 }
@@ -407,10 +407,10 @@ h5 {
    background-color: rgba(255,255,255,0);
    letter-spacing: 2px;
 }
-.button:hover { 
+.button:hover {
 	background-color: rgba(48, 66, 82, 1);
-	color: rgba(255, 255, 255, 1); 
-	text-decoration: none; 
+	color: rgba(255, 255, 255, 1);
+	text-decoration: none;
 	border: 2px solid transparent;
 	padding: 15px 40px;
 }
@@ -426,12 +426,12 @@ h5 {
    font-weight: 600;
    text-transform: uppercase;
    background-color: rgba(48, 66, 82, 1);
-   color: rgba(255, 255, 255, 1); 
+   color: rgba(255, 255, 255, 1);
    border: 2px solid rgba(48, 66, 82, 1);
    letter-spacing: 2px;
 }
-.button-reverse:hover, #mc_embed_signup input[type="submit"]:hover {   
-	text-decoration: none; 
+.button-reverse:hover, #mc_embed_signup input[type="submit"]:hover {
+	text-decoration: none;
 	background-color: rgba(255,255,255,0);
 	color: rgba(95,117,137,1);
 	border: 2px solid rgba(95,117,137,1);
@@ -441,10 +441,10 @@ h5 {
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
-    height: 0; 
+    height: 0;
 	overflow: hidden;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
@@ -482,7 +482,7 @@ h5 {
     text-align: center;
     width: 31%;
 }
- .one_third_last img, .one_third img, .half_column1 img, .half_column2 img, .hero img { width: 100%; height: auto; }  
+ .one_third_last img, .one_third img, .half_column1 img, .half_column2 img, .hero img { width: 100%; height: auto; }
  .one_third_last img, .one_third img { border-radius: 5px; }
 .one_third_last h2, .one_third h2 { font-size: 32px; padding: 0 0 10px 0; }
 /*
@@ -505,7 +505,7 @@ Headroom Styling for top menu
     z-index:999;
 	}
 .headroom--unpinned {
-    -webkit-transform: translateY(-100px); 
+    -webkit-transform: translateY(-100px);
     -moz-transform: translateY(-100px);
     -ms-transform: translateY(-100px);
     -o-transform: translateY(-100px);
@@ -539,7 +539,7 @@ floating Animation
 	animation-name: floating;
 	-webkit-animation-name: floating;
 
-	animation-duration: 1.5s;	
+	animation-duration: 1.5s;
 	-webkit-animation-duration: 1.5s;
 
 	animation-iteration-count: infinite;
@@ -548,26 +548,26 @@ floating Animation
 
 @keyframes floating {
 	0% {
-		transform: translateY(0%);	
+		transform: translateY(0%);
 	}
 	50% {
-		transform: translateY(8%);	
-	}	
+		transform: translateY(8%);
+	}
 	100% {
 		transform: translateY(0%);
-	}			
+	}
 }
 
 @-webkit-keyframes floating {
 	0% {
-		-webkit-transform: translateY(0%);	
+		-webkit-transform: translateY(0%);
 	}
 	50% {
-		-webkit-transform: translateY(8%);	
-	}	
+		-webkit-transform: translateY(8%);
+	}
 	100% {
 		-webkit-transform: translateY(0%);
-	}			
+	}
 }
 /*
 ==============================================
@@ -577,19 +577,19 @@ hatch
 
 .hatch{
 	animation-name: hatch;
-	-webkit-animation-name: hatch;	
+	-webkit-animation-name: hatch;
 
-	animation-duration: 2s;	
+	animation-duration: 2s;
 	-webkit-animation-duration: 2s;
 
-	animation-timing-function: ease-in-out;	
+	animation-timing-function: ease-in-out;
 	-webkit-animation-timing-function: ease-in-out;
 
 	transform-origin: 50% 100%;
 	-ms-transform-origin: 50% 100%;
-	-webkit-transform-origin: 50% 100%; 
+	-webkit-transform-origin: 50% 100%;
 
-	visibility: visible !important;		
+	visibility: visible !important;
 }
 
 @keyframes hatch {
@@ -604,16 +604,16 @@ hatch
 	}
 	50% {
 		transform: rotate(-2deg);
-	}	
+	}
 	65% {
 		transform: rotate(1deg);
-	}	
+	}
 	80% {
 		transform: rotate(-1deg);
-	}		
+	}
 	100% {
 		transform: rotate(0deg);
-	}									
+	}
 }
 
 @-webkit-keyframes hatch {
@@ -628,16 +628,16 @@ hatch
 	}
 	50% {
 		-webkit-transform: rotate(-2deg);
-	}	
+	}
 	65% {
 		-webkit-transform: rotate(1deg);
-	}	
+	}
 	80% {
 		-webkit-transform: rotate(-1deg);
-	}		
+	}
 	100% {
 		-webkit-transform: rotate(0deg);
-	}		
+	}
 }
 /*
 ==============================================
@@ -648,15 +648,15 @@ slideUp
 
 .slideUp{
 	animation-name: slideUp;
-	-webkit-animation-name: slideUp;	
+	-webkit-animation-name: slideUp;
 
-	animation-duration: 1s;	
+	animation-duration: 1s;
 	-webkit-animation-duration: 1s;
 
-	animation-timing-function: ease;	
+	animation-timing-function: ease;
 	-webkit-animation-timing-function: ease;
 
-	visibility: visible !important;			
+	visibility: visible !important;
 }
 
 @keyframes slideUp {
@@ -674,10 +674,10 @@ slideUp
 	}
 	95%{
 		transform: translateY(2%);
-	}			
+	}
 	100% {
 		transform: translateY(0%);
-	}	
+	}
 }
 
 @-webkit-keyframes slideUp {
@@ -695,10 +695,10 @@ slideUp
 	}
 	95%{
 		-webkit-transform: translateY(2%);
-	}			
+	}
 	100% {
 		-webkit-transform: translateY(0%);
-	}	
+	}
 }
 
 
@@ -747,7 +747,7 @@ span.expand {
     position:absolute;
 }
 /* mouse grab icon */
-.grabbing { 
+.grabbing {
     cursor:url("../img/grabbing.png") 8 8, move;
 }
 /*
@@ -891,9 +891,9 @@ Pricing Table Specific Styling
 	border-bottom: 2px solid rgba(48, 66, 82, 1);
 	background-color: rgba(0,0,0,0);
 }
-.price-tier .tier:hover { 
-    background-color: rgba(48, 66, 82, 1); 
-    color: #ffffff; 
+.price-tier .tier:hover {
+    background-color: rgba(48, 66, 82, 1);
+    color: #ffffff;
     border-color: rgba(48, 66, 82, 1);
 }
 .price-tier .tier:hover h6, .price-tier .tier:hover h6 sup, .price-tier .tier:hover .prices span, .price-tier .tier:hover h5, .price-tier .tier:hover li, .price-tier .tier:hover .prices span:after { color: #ffffff; }
@@ -917,7 +917,7 @@ Icon styling for white buttons
     /* opacity: 1.0; */
 }
 .button-white:hover [class^="icon-"]:before, .button-white:hover [class*=" icon-"]:before {
-    color: rgba(48, 66, 82, 1); 
+    color: rgba(48, 66, 82, 1);
 }
 .icon_left img { width: 60% !important; height: auto !important;}
 .icon_left {width: 22%; height: auto; overflow: auto; float: left; text-align: left; margin-top: 10px; }
