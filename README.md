@@ -2,9 +2,9 @@
 This is my static "Portfolio/About Me" page that I modified from my GA school code test. This page will be hosted on Github and linked to http://chriskibble.net
 
 ## Why this page?
-Tired of Paying $10 for Ghost.io as my "web presence" when I don't blog that much  
+Why pay for an "website presence" when I have the skills to create one myself? There are better tools for the jobs needed.
 
-- Blogging job went to Medium (better experience, can direct publish there, better reach)
+- Blogging job went to Medium + Tumblr + Quora (better experience, can direct publish there, better reach)
 - "About me" & "Portfolio" jobs handled by this page on Github
 
 ##About Me
